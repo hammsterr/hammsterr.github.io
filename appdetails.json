@@ -1,0 +1,16 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"2.8.1600",
+    "title":"VPN by Hamyack",
+    "description":"best vpn client",
+    "size":"http://hamyack.ru/vpn"
+  }],
+  "blocked":[
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"n/a","country":"Japan","image":"japan","ip":"60.137.147.116","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"n/a","country":"Bulgaria","image":"bulgaria","ip":"85.130.105.28","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"n/a","country":"United States","image":"unitedstates","ip":"149.28.20.88","active":"true","signal":"a"}
+  ]
+}
